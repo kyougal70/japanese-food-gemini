@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2474563c-a56a-4b82-9197-3c56faa6f86d" name="Changes" comment="add script" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kyougal70&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kyougal70/Sushi-Restaurant.git&quot;,
+    &quot;accountId&quot;: &quot;77cdbfac-82fb-47b0-b2db-87dc9cfead32&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="34WAWcf8w6e2H2uHvNCa4Be2gVj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.index.html.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/Yougal kumar/WebstormProjects/japanese-food-gemini",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yougal kumar\WebstormProjects\Sushi-Restaurant-main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Sushi-Restaurant-main/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-WS-251.28293.17" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2474563c-a56a-4b82-9197-3c56faa6f86d" name="Changes" comment="" />
+      <created>1761318987396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761318987396</updated>
+      <workItem from="1761318989158" duration="8084000" />
+      <workItem from="1762478661898" duration="7260000" />
+      <workItem from="1762828400832" duration="596000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1761319071481</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761319071481</updated>
+    </task>
+    <task id="LOCAL-00002" summary="change title and add lucky">
+      <option name="closed" value="true" />
+      <created>1761319480366</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761319480366</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add script">
+      <option name="closed" value="true" />
+      <created>1761437910621</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761437910621</updated>
+    </task>
+    <task id="LOCAL-00004" summary="remove script">
+      <option name="closed" value="true" />
+      <created>1761536503654</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1761536503654</updated>
+    </task>
+    <task id="LOCAL-00005" summary="re-add script">
+      <option name="closed" value="true" />
+      <created>1761620288786</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1761620288786</updated>
+    </task>
+    <task id="LOCAL-00006" summary="re-add script">
+      <option name="closed" value="true" />
+      <created>1761620471077</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1761620471077</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add script">
+      <option name="closed" value="true" />
+      <created>1761789912660</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1761789912660</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add script finger">
+      <option name="closed" value="true" />
+      <created>1762577942231</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1762577942231</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add script finger">
+      <option name="closed" value="true" />
+      <created>1762578020217</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1762578020217</updated>
+    </task>
+    <task id="LOCAL-00010" summary="remove scrypt">
+      <option name="closed" value="true" />
+      <created>1762609258668</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1762609258668</updated>
+    </task>
+    <task id="LOCAL-00011" summary="change lucky">
+      <option name="closed" value="true" />
+      <created>1762733135530</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1762733135530</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add pop">
+      <option name="closed" value="true" />
+      <created>1762733656931</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1762733656931</updated>
+    </task>
+    <task id="LOCAL-00013" summary="remove........">
+      <option name="closed" value="true" />
+      <created>1762735043828</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1762735043828</updated>
+    </task>
+    <task id="LOCAL-00014" summary="remove script">
+      <option name="closed" value="true" />
+      <created>1762737170385</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1762737170385</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add script">
+      <option name="closed" value="true" />
+      <created>1762742425569</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1762742425569</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="change title and add lucky" />
+    <MESSAGE value="re-add script" />
+    <MESSAGE value="add script finger" />
+    <MESSAGE value="remove scrypt" />
+    <MESSAGE value="change lucky" />
+    <MESSAGE value="add pop" />
+    <MESSAGE value="remove........" />
+    <MESSAGE value="remove script" />
+    <MESSAGE value="add script" />
+    <option name="LAST_COMMIT_MESSAGE" value="add script" />
+  </component>
+</project>
