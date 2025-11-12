@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2474563c-a56a-4b82-9197-3c56faa6f86d" name="Changes" comment="change title">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2474563c-a56a-4b82-9197-3c56faa6f86d" name="Changes" comment="change title..">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +85,7 @@
       <workItem from="1761318989158" duration="8084000" />
       <workItem from="1762478661898" duration="7260000" />
       <workItem from="1762828400832" duration="596000" />
-      <workItem from="1762829011597" duration="1215000" />
+      <workItem from="1762829011597" duration="2568000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -231,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762835151227</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="change title..">
+      <option name="closed" value="true" />
+      <created>1762836707644</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1762836707644</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,6 +258,7 @@
     <MESSAGE value="add script" />
     <MESSAGE value="initial" />
     <MESSAGE value="change title" />
-    <option name="LAST_COMMIT_MESSAGE" value="change title" />
+    <MESSAGE value="change title.." />
+    <option name="LAST_COMMIT_MESSAGE" value="change title.." />
   </component>
 </project>
