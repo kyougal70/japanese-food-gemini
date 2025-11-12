@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2474563c-a56a-4b82-9197-3c56faa6f86d" name="Changes" comment="change title..">
+    <list default="true" id="2474563c-a56a-4b82-9197-3c56faa6f86d" name="Changes" comment="add sript and lucky">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +86,7 @@
       <workItem from="1761318989158" duration="8084000" />
       <workItem from="1762478661898" duration="7260000" />
       <workItem from="1762828400832" duration="596000" />
-      <workItem from="1762829011597" duration="2568000" />
+      <workItem from="1762829011597" duration="3873000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -239,7 +240,23 @@
       <option name="project" value="LOCAL" />
       <updated>1762836707644</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="add sript and lucky">
+      <option name="closed" value="true" />
+      <created>1762907487940</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1762907487940</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add sript and lucky">
+      <option name="closed" value="true" />
+      <created>1762907496648</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1762907496648</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,6 +276,7 @@
     <MESSAGE value="initial" />
     <MESSAGE value="change title" />
     <MESSAGE value="change title.." />
-    <option name="LAST_COMMIT_MESSAGE" value="change title.." />
+    <MESSAGE value="add sript and lucky" />
+    <option name="LAST_COMMIT_MESSAGE" value="add sript and lucky" />
   </component>
 </project>
