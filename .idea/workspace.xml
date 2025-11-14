@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2474563c-a56a-4b82-9197-3c56faa6f86d" name="Changes" comment="add sript and lucky">
+    <list default="true" id="2474563c-a56a-4b82-9197-3c56faa6f86d" name="Changes" comment="change lucky">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -86,7 +86,7 @@
       <workItem from="1761318989158" duration="8084000" />
       <workItem from="1762478661898" duration="7260000" />
       <workItem from="1762828400832" duration="596000" />
-      <workItem from="1762829011597" duration="3873000" />
+      <workItem from="1762829011597" duration="4612000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -256,7 +256,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762907496648</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="change lucky">
+      <option name="closed" value="true" />
+      <created>1762909242119</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1762909242119</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,7 +276,6 @@
     <MESSAGE value="re-add script" />
     <MESSAGE value="add script finger" />
     <MESSAGE value="remove scrypt" />
-    <MESSAGE value="change lucky" />
     <MESSAGE value="add pop" />
     <MESSAGE value="remove........" />
     <MESSAGE value="remove script" />
@@ -277,6 +284,7 @@
     <MESSAGE value="change title" />
     <MESSAGE value="change title.." />
     <MESSAGE value="add sript and lucky" />
-    <option name="LAST_COMMIT_MESSAGE" value="add sript and lucky" />
+    <MESSAGE value="change lucky" />
+    <option name="LAST_COMMIT_MESSAGE" value="change lucky" />
   </component>
 </project>
