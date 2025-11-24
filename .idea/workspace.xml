@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2474563c-a56a-4b82-9197-3c56faa6f86d" name="Changes" comment="add script">
-      <change afterPath="$PROJECT_DIR$/img/msg_dia2.jpeg" afterDir="false" />
+    <list default="true" id="2474563c-a56a-4b82-9197-3c56faa6f86d" name="Changes" comment="change image">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -88,7 +87,7 @@
       <workItem from="1761318989158" duration="8084000" />
       <workItem from="1762478661898" duration="7260000" />
       <workItem from="1762828400832" duration="596000" />
-      <workItem from="1762829011597" duration="10290000" />
+      <workItem from="1762829011597" duration="11047000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -298,7 +297,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763945224948</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="change image">
+      <option name="closed" value="true" />
+      <created>1763945609796</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1763945609796</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,6 +328,7 @@
     <MESSAGE value="remove style" />
     <MESSAGE value="remove script" />
     <MESSAGE value="add script" />
-    <option name="LAST_COMMIT_MESSAGE" value="add script" />
+    <MESSAGE value="change image" />
+    <option name="LAST_COMMIT_MESSAGE" value="change image" />
   </component>
 </project>
