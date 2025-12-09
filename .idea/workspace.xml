@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2474563c-a56a-4b82-9197-3c56faa6f86d" name="Changes" comment="change finger">
+    <list default="true" id="2474563c-a56a-4b82-9197-3c56faa6f86d" name="Changes" comment="add">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +90,7 @@
       <workItem from="1762829011597" duration="11047000" />
       <workItem from="1764133636892" duration="1865000" />
       <workItem from="1764605772237" duration="3398000" />
-      <workItem from="1765086271271" duration="642000" />
+      <workItem from="1765086271271" duration="1498000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -339,7 +340,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764947809710</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="add">
+      <option name="closed" value="true" />
+      <created>1765122897195</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1765122897195</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -364,8 +373,8 @@
     <MESSAGE value="change image" />
     <MESSAGE value="change lucky" />
     <MESSAGE value="remove" />
-    <MESSAGE value="add" />
     <MESSAGE value="change finger" />
-    <option name="LAST_COMMIT_MESSAGE" value="change finger" />
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
 </project>
