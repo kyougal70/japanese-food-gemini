@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2474563c-a56a-4b82-9197-3c56faa6f86d" name="Changes" comment="remove and change lucky">
-      <change afterPath="$PROJECT_DIR$/img/japanese-food-g-icon.png" afterDir="false" />
+    <list default="true" id="2474563c-a56a-4b82-9197-3c56faa6f86d" name="Changes" comment="change into google">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/fbProfile.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/messenger-icon1024.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/msg_dia2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +91,9 @@
       <workItem from="1764605772237" duration="3398000" />
       <workItem from="1765086271271" duration="3406000" />
       <workItem from="1766066233238" duration="1200000" />
-      <workItem from="1766497165298" duration="3111000" />
+      <workItem from="1766497165298" duration="3519000" />
+      <workItem from="1766750153975" duration="628000" />
+      <workItem from="1767021949264" duration="839000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -362,7 +359,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765253568475</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="change into google">
+      <option name="closed" value="true" />
+      <created>1766730087079</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1766730087079</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -390,6 +395,7 @@
     <MESSAGE value="change finger" />
     <MESSAGE value="add" />
     <MESSAGE value="remove and change lucky" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove and change lucky" />
+    <MESSAGE value="change into google" />
+    <option name="LAST_COMMIT_MESSAGE" value="change into google" />
   </component>
 </project>
