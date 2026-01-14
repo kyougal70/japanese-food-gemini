@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2474563c-a56a-4b82-9197-3c56faa6f86d" name="Changes" comment="add g-tag">
+    <list default="true" id="2474563c-a56a-4b82-9197-3c56faa6f86d" name="Changes" comment="add g-tag..">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JavaScript Debug.del.html.executor": "Run",
     "JavaScript Debug.index.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -46,7 +47,7 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/Yougal kumar/WebstormProjects/japanese-food-gemini/img",
+    "last_opened_file_path": "C:/Users/Yougal kumar/WebstormProjects/japanese-food-gemini",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -58,16 +59,21 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yougal kumar\WebstormProjects\japanese-food-gemini" />
       <recent name="C:\Users\Yougal kumar\WebstormProjects\japanese-food-gemini\img" />
       <recent name="C:\Users\Yougal kumar\WebstormProjects\Sushi-Restaurant-main" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.del.html">
+    <configuration name="del.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/japanese-food-gemini/del.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Sushi-Restaurant-main/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.del.html" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -98,7 +104,11 @@
       <workItem from="1766750153975" duration="628000" />
       <workItem from="1767021949264" duration="2379000" />
       <workItem from="1767758764846" duration="506000" />
-      <workItem from="1767768702020" duration="2674000" />
+      <workItem from="1767768702020" duration="5118000" />
+      <workItem from="1768131319695" duration="3879000" />
+      <workItem from="1768302392981" duration="1837000" />
+      <workItem from="1768305086842" duration="2676000" />
+      <workItem from="1768373767461" duration="3732000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -396,7 +406,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767770185804</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="add g-tag..">
+      <option name="closed" value="true" />
+      <created>1767784106825</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1767784106825</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -427,6 +445,7 @@
     <MESSAGE value="change lucky" />
     <MESSAGE value="change mousemove" />
     <MESSAGE value="add g-tag" />
-    <option name="LAST_COMMIT_MESSAGE" value="add g-tag" />
+    <MESSAGE value="add g-tag.." />
+    <option name="LAST_COMMIT_MESSAGE" value="add g-tag.." />
   </component>
 </project>
